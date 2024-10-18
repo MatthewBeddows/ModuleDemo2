@@ -1,4 +1,4 @@
-[Module Info] Magnet Coil Construction
-Set up a cleanroom environment for coil winding to avoid contamination. Wind the superconducting wire onto the coil formers with precision, implementing quality control checks at regular intervals during winding.
+[Module Name] Magnet Coil Construction
+[Module Info] Set up a cleanroom environment for coil winding to avoid contamination. Wind the superconducting wire onto the coil formers with precision, implementing quality control checks at regular intervals during winding.
 
 [Requirements]
